@@ -48,6 +48,19 @@ Run:
 java -cp bin merge_sort.MergeSort
 ```
 
+Test Scenarios
+--------------
+
+The project includes comprehensive test scenarios to validate the Merge Sort implementation:
+
+-   Sorting an empty list
+-   Handling lists with null values
+-   Sorting lists containing both positive and negative integers
+-   Ensuring correct sorting with duplicate strings
+-   Verifying the integrity of already sorted lists
+
+These tests ensure that the Merge Sort algorithm performs correctly across various data types and edge cases.
+
 Contributing
 Contributions are welcome! If you have any ideas, suggestions, or bug reports, please create an issue or submit a pull request.
 
